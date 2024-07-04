@@ -16,7 +16,8 @@ const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-8xl font-bold text-white max-w-[1000px] w-auto h-auto"
         >
           <span>
-            Hello everyone! I am
+            Hello! <br />
+            I am
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               Shiv{" "}

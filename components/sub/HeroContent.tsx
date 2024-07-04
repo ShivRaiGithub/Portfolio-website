@@ -27,7 +27,7 @@ const HeroContent = () => {
         <motion.p
           variants={fadeIn(0.8)}
           className="text-gray-400 text-2xl my-5 max-w-[600px]">
-          I'm a college student passionate about blockchain development with skills in web development, graphic design, video editing, etc.
+          I am a college student passionate about blockchain development with skills in web development, graphic design, video editing, etc.
         </motion.p>
       </div>
     </motion.div>
